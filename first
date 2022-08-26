@@ -1,0 +1,8 @@
+//sairam this is my first program
+
+#include<stdio.h>
+voidmain()
+{
+    printf("om sri sairam\n"); /* using of a semi colon is called syntax */
+
+}
